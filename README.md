@@ -37,7 +37,7 @@ Sell-only asks for the amount to raise by selling, then the same position detail
 
 Keep adding positions until the target weights sum to 100%. The program then prints how much to buy or sell of each asset.
 
-## Example
+## Example output
 
 Buy-only, investing 10,000 into a 30,000 portfolio. BND is below its 50% target, so the cash goes there. SPY and GLD are already over their 25% targets, so the amount to buy is 0.00.
 
